@@ -4,7 +4,7 @@
 #   "Amanda" => 27
 # }
 
-d
+
 
   # add your code snippet here!
   def happy_birthday(birthday_kids)
