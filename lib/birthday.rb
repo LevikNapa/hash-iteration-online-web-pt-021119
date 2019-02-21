@@ -4,7 +4,8 @@
 #   "Amanda" => 27
 # }
 
-def happy_birthday(birthday_kids)
+d
+
   # add your code snippet here!
   def happy_birthday(birthday_kids)
   birthday_kids.each do |kids_name, age|
